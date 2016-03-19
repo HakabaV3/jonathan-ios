@@ -1,0 +1,16 @@
+PODS:
+  - APIKit (1.2.1):
+    - Result (~> 1.0.1)
+  - Himotoki (1.7.0)
+  - Result (1.0.2)
+
+DEPENDENCIES:
+  - APIKit
+  - Himotoki
+
+SPEC CHECKSUMS:
+  APIKit: ef1cea6387cf698e8ef9db365aebb664e8316379
+  Himotoki: a97b4a5861d6d25fc0746f0e19164eef03c19347
+  Result: dd3dd71af3fa2e262f1a999e14fba2c25ec14f16
+
+COCOAPODS: 0.39.0
